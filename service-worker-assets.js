@@ -13,7 +13,7 @@
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-FLybzIt0AuGWWFfUgqMHSeYA4jK\/1QKXH0bUpmzL2kc=",
+      "hash": "sha256-jhRYsQBaMU9SfWzrKPv3y5wqvmpOej\/jEywp10AzXDY=",
       "url": "index.html"
     },
     {
@@ -45,7 +45,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-IM2yrXqqjWYcmNgVuwUxYmTuOzD0K45guao9gLxp+mQ=",
+      "hash": "sha256-t5fnkQQHgzVvfskkfAbud+BFBl84HIXCmejjyVUxka8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -53,7 +53,7 @@
       "url": "_framework\/ChartJs.Blazor.dll"
     },
     {
-      "hash": "sha256-Kv5n2znRfpi8J0fwvlVeEhHteVnKCgjoszb2ZfVgM9o=",
+      "hash": "sha256-c4p111ZuDJ1RfDkPRkxJDlxLEfOVjsXwQAsHz0sBoNs=",
       "url": "_framework\/CryptoCurrencyTracker.dll"
     },
     {
@@ -449,5 +449,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "xZG2oN\/1"
+  "version": "B+fS4JJ8"
 };
