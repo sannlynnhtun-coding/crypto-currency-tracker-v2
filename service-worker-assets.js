@@ -45,7 +45,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-rm5o4dwvesfVBbwHHQ1pGEBO6Q9vsDkYsiOCffwYED8=",
+      "hash": "sha256-IM2yrXqqjWYcmNgVuwUxYmTuOzD0K45guao9gLxp+mQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -53,7 +53,7 @@
       "url": "_framework\/ChartJs.Blazor.dll"
     },
     {
-      "hash": "sha256-5LsKT11tg4N4qzzaa6GaU+MiiBQIfF8Yq+89DGWj4rg=",
+      "hash": "sha256-Kv5n2znRfpi8J0fwvlVeEhHteVnKCgjoszb2ZfVgM9o=",
       "url": "_framework\/CryptoCurrencyTracker.dll"
     },
     {
@@ -121,7 +121,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-YK5SPCsy+0wM3WIda1aez4OsVj5+ZlXsC82z2pFI0dg=",
+      "hash": "sha256-MshK53utMUact77mZROFr6+wppQV5Dv5c9zNVJZ\/coQ=",
       "url": "_framework\/MudBlazor.dll"
     },
     {
@@ -233,7 +233,7 @@
       "url": "_framework\/System.ObjectModel.dll"
     },
     {
-      "hash": "sha256-OUe3ddRCcjNlPA3cYGUudB781vEe04JwIAhd4wYGHho=",
+      "hash": "sha256-DGUhaZs0NIp+fJxtOx3xoAFr7T6hKTyF6HHScmdVnlU=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -325,7 +325,7 @@
       "url": "_framework\/dotnet.6.0.8.pqds0w9bzq.js"
     },
     {
-      "hash": "sha256-EraqXxPZW2K4LnjRiJFtWj6zYmZVHBl1U4v0jMawxY4=",
+      "hash": "sha256-3HXIyGIZVTwj5d9ON3v+SL+Qb110tG+nz7qSPIQ4uDQ=",
       "url": "_framework\/dotnet.wasm"
     },
     {
@@ -449,5 +449,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "TV4iCVvx"
+  "version": "xZG2oN\/1"
 };
